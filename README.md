@@ -6,7 +6,8 @@ Welcome to my personal portfolio website built using Laravel, Bootstrap 5, and B
 
 ## 🔗 Live Demo
 
-👉 [Click here to view live site](https://46ce94ae302f.ngrok-free.app)
+👉 [Click here to view live site](https://school-demo.example.com)
+
 
 > This is a live Laravel project hosted via Ngrok (temporary public link).
 
